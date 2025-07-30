@@ -59,7 +59,6 @@ Link, Media, Explanation	Misc. metadata, not used in analysis
 - datetime
 
 #  Key Insights
-Sightings peaked around 1997–2004, possibly tied to pop culture or media events.
 
 The most reported UFO shape was light, followed by circle and triangle.
 
